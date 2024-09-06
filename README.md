@@ -1,9 +1,9 @@
 Settings I've made
 
-1. access jupyter notebook with Pycharm \n
-**In order not to download large anaconda** \n
+1. access jupyter notebook with Pycharm  
+**In order not to download large anaconda**  
 ![image](https://github.com/user-attachments/assets/4decef65-f587-4de1-8748-fe9e05f0cf7a)
-!pip install jupyter \n
+!pip install jupyter  
 open in browser # may wait a few minutes for pycharm to respond \n
 
 2. Access kaggle with jupyter notebook \n
